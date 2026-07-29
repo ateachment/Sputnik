@@ -31,10 +31,7 @@ A custom AVR embedded C/C++ project for controlling a 20-LED WS2812B RGB strip u
 <img src="https://github.com/ateachment/sputnik/blob/main/sputnik.mp4" alt="Gould Osci with MC-Board ARD nano V4" width="400"/>
 
 <!-- Video element -->
-<video width="640" height="280" controls autoplay muted loop>
-    <!-- MP4 source -->
-    <source src="https://github.com/ateachment/sputnik/blob/main/sputnik.mp4" type="video/mp4">
-        <!-- Fallback text for unsupported browsers -->
+<video src="./sputnik.mp4" controls width="100%">
     Your browser does not support the HTML5 video tag.
 </video>
 
