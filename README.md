@@ -12,6 +12,8 @@ A custom AVR embedded C/C++ project for controlling a 20-LED WS2812B RGB strip u
 * **Power Supply:** USB Power Supply
 * **LED Strip:** WS2812B RGB LED strip (**20 LEDs**)
 
+<img src="https://github.com/ateachment/sputnik/blob/main/sputnik.jpg?raw=true" alt="Tea egg with ATmega8 inside and LED strip" width="400"/>
+
 ---
 
 ## 🎨 Features & Animations
@@ -25,6 +27,17 @@ A custom AVR embedded C/C++ project for controlling a 20-LED WS2812B RGB strip u
   * **Idle Embers:** Subtle, low-brightness warm breathing.
   * **Impact Echo:** High-intensity flash with a decaying secondary glow.
   * **Disco Accent:** Quick 3-snap strobe synchronized to upbeat patterns.
+
+<img src="https://github.com/ateachment/sputnik/blob/main/sputnik.mp4" alt="Gould Osci with MC-Board ARD nano V4" width="400"/>
+
+<!-- Video element -->
+<video width="640" height="280" controls autoplay muted loop>
+    <!-- MP4 source -->
+    <source src="https://github.com/ateachment/sputnik/blob/main/sputnik.mp4" type="video/mp4">
+        <!-- Fallback text for unsupported browsers -->
+    Your browser does not support the HTML5 video tag.
+</video>
+
 
 ---
 
