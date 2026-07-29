@@ -28,8 +28,6 @@ A custom AVR embedded C/C++ project for controlling a 20-LED WS2812B RGB strip u
   * **Impact Echo:** High-intensity flash with a decaying secondary glow.
   * **Disco Accent:** Quick 3-snap strobe synchronized to upbeat patterns.
 
-<img src="https://github.com/ateachment/sputnik/blob/main/sputnik.mp4" alt="Gould Osci with MC-Board ARD nano V4" width="400"/>
-
 <!-- Video element -->
 <video src="./sputnik.mp4" controls width="100%">
     Your browser does not support the HTML5 video tag.
