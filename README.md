@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/756e93a7-8eb8-4bbd-bb1c-3e56a83caac5
+
 # ATmega8 WS2812B LED Controller ("Teeei Satellite")
 
 A custom AVR embedded C/C++ project for controlling a 20-LED WS2812B RGB strip using an ATmega8 microcontroller operating as a satellite module. Features dynamic, highly customizable light animations including realistic biological/disco heartbeats and dedicated bottom-LED ground effects.
@@ -28,10 +32,11 @@ A custom AVR embedded C/C++ project for controlling a 20-LED WS2812B RGB strip u
   * **Impact Echo:** High-intensity flash with a decaying secondary glow.
   * **Disco Accent:** Quick 3-snap strobe synchronized to upbeat patterns.
 
-<!-- Video element -->
-<video src="./sputnik.mp4" controls width="100%">
-    Your browser does not support the HTML5 video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/8f405b3c-bc69-42f0-bd6c-d2f1b2fb264f
+
+
 
 
 ---
