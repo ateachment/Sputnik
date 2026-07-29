@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/756e93a7-8eb8-4bbd-bb1c-3e56a83caac5
-
 # ATmega8 WS2812B LED Controller ("Teeei Satellite")
 
 A custom AVR embedded C/C++ project for controlling a 20-LED WS2812B RGB strip using an ATmega8 microcontroller operating as a satellite module. Features dynamic, highly customizable light animations including realistic biological/disco heartbeats and dedicated bottom-LED ground effects.
